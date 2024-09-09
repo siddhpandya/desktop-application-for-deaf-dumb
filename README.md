@@ -24,4 +24,4 @@ Develop a desktop application for deaf and mute students, offering skill-buildin
 - Enhance modules based on feedback and evolving needs.
 
 ## YouTube Video
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=knj-dV7tdAg)
+[![Watch the demo](https://img.youtube.com/vi/knj-dV7tdAg/0.jpg)](https://www.youtube.com/watch?v=knj-dV7tdAg)
